@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Subhash Kumar
 tagline: Software Professional
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/images.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
