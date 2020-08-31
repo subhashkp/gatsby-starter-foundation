@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Subhash Kumar
 tagline: My imperfect lens to a perfect world
-featuredImage: /assets/images.jpg
+featuredImage: /assets/quotefancy-510890-3840x2160.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
