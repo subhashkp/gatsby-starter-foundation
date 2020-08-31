@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Subhash Kumar
-tagline: Software Professional
+tagline: My imperfect lens to a perfect world
 featuredImage: /assets/images.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-India based software professional working on cloud technologies
+This blog is a collection of my beliefs and learnings. Hope you find it interesting. You may or may not agree with my beliefs but lets at least agree to disagree.
