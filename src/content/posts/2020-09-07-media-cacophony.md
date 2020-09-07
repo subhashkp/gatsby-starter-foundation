@@ -4,6 +4,7 @@ title: Media cacophony
 slug: /mediacacophony
 date: 2020-09-07 23:50
 description: media, news
+featuredImage: /assets/istockphoto-891605714-612x612.jpg
 ---
 For the past few years, have been greatly troubled by the media cacophony around us. Have tried to avoid it but its very difficult. Have stopped watching news channels but invariably, every day morning somebody or the other will post a video on social media and the brouhaha starts. 
 
