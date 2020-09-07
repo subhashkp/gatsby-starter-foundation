@@ -7,7 +7,7 @@ description: media, news
 ---
 For the past few years, have been greatly troubled by the media cacophony around us. Have tried to avoid it but its very difficult. Have stopped watching news channels but invariably, every day morning somebody or the other will post a video on social media and the brouhaha starts. 
 
-So around a few months back, created something called as a mental model which is given below. 
+So around a few months back, created something called as a mental model which is given below. Its like a net and captures the daily news, the success rate is near 100%
 
 * My language is the language of the gods, Your language is all gibberish and can't be called as a language.
 * My food habits has been shaped by gods, Your food can't be called as food.
@@ -15,7 +15,7 @@ So around a few months back, created something called as a mental model which is
 * My decision making and thought process is very refined. Your decisions are all worthless.
 * My beliefs are scientific. Your beliefs are all superstition. 
 * My community has been wronged across generations. Your community grievances are all imagined.
-* My family members are all meritorius and talented. Your family members have succeeded because of nepotism.
+* My family members are all meritorious and talented. Your family members have succeeded because of nepotism.
 * My dress habits reflects my culture. Your culture doesn't even have a dress sense.
 * My family members are all perfect and loving, Your family members have corrupted my innocent family.
 * My culture is above perfection. Your culture is barbaric and needs urgent reform.
@@ -23,4 +23,4 @@ So around a few months back, created something called as a mental model which is
 * My choice, I can reject you or accept you. You have no choice but to accept me.
 * What all I have is mine and non-negotiable, What all you have is always open for negotiations.
 
-Surprisingly or not very surprisingly every news item, be it local or international, or may be a facebook feed fits into the above model and you are left with the sports feed to enjoy.
+In the end nothing comes out of this filter and your are left with the sports pages. Hope as we go forward the news cycle can escape this filter.
