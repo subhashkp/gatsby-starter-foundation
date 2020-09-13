@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Aranmula Mirror - India's diversity.
-slug: \language
+slug: /language
 date: 2020-09-13 22:50
 description: "hindi, malayalalam, marathi, "
 featuredImage: /assets/aranmula-kannadi.jpg
